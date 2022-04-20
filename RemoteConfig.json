@@ -1,0 +1,23 @@
+{
+  "packageName": "street.fighter.old.classic",
+  "forceUpdate": false,
+  "forceUpdateContent": "GAME is removed on store!\nSupport us and PLAY MORE GAMES\nin new version!",
+  "forceUpdateUrl": "market://details?id=EMPTY",
+  "checkClone": false,
+  "reviewVersion": 1,
+  "showNESGamesTimeDelay": 10000,
+  "adsNetwork": 0,
+  "adsType": 0,
+  "numberPressToShowAds": 15,
+  "showBannerMenu": false,
+  "showBannerPlay": false,
+  "requireInternetToPlay": false,
+  "showNewGames": false,
+  "newGames": [
+    {
+      "name": "",
+      "imgUrl": "https://raw.githubusercontent.com/classicgame8bits/classic.retro.nostalgia.nes/master/noti.jpg",
+      "downloadUrl": "market://details?id=nes.retro.nostalgia"
+    }
+  ]
+}
